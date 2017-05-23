@@ -1,0 +1,10 @@
+  instance       moves        Hamming (s)    Manhattan (s)
+  ------------  ----------   ----------     ----------
+  puzzle28.txt  28            70              4-5
+  puzzle30.txt  30            155             11
+  puzzle32.txt  32            > 300           240
+  puzzle34.txt  34            > 300           80
+  puzzle36.txt  36            > 300           > 300
+  puzzle38.txt  38            > 300           > 300
+  puzzle40.txt  40            > 300           237
+  puzzle42.txt  42            > 300           > 300
